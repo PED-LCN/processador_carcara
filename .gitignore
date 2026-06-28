@@ -1,0 +1,25 @@
+# Pastas temporárias e de compilação do Quartus
+db/
+incremental_db/
+output_files/
+greybox_tmp/
+simulation/
+hc_output/
+
+# Arquivos de histórico, backup e configuração local
+*.bak
+*.orig
+*.qws
+*.cf
+*.rpt
+*.summary
+*.smsg
+*.pin
+*.jdi
+*.done
+*.qdf
+
+# Binários gerados (Bitstreams)
+*.sof
+*.pof
+*.ttf

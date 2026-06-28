@@ -1,0 +1,163 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1\carcara
+vBanco_Registradores
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+Z2 !s100 >hfAjmS04S>Z2jh>TiNba3
+Z3 I><QDbmAocZWeHEdg]4BDJ1
+Z4 VS=z8:I5d;cGl=[<94676W1
+Z5 !s105 banco_registradores_sv_unit
+S1
+Z6 dC:\altera\13.1\carcara
+Z7 w1782677406
+Z8 8banco_registradores.sv
+Z9 Fbanco_registradores.sv
+L0 1
+Z10 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z11 !s108 1782681303.836000
+Z12 !s107 unidade_controle.sv|memoria_instrucoes.sv|cpu_tb.sv|banco_registradores.sv|ULA.sv|PC.sv|CPU.sv|
+Z13 !s90 -reportprogress|300|-sv|CPU.sv|PC.sv|ULA.sv|banco_registradores.sv|cpu_tb.sv|memoria_instrucoes.sv|unidade_controle.sv|
+!s101 -O0
+Z14 o-sv -O0
+Z15 n@banco_@registradores
+vCPU
+R1
+!i10b 1
+Z16 !s100 lWMko6aS4`ehW7FC>19US3
+Z17 IaTK;H;IE<b91<JS?:X4NS2
+Z18 Vb3SQ@ElFOUf9@9e7BCZRN3
+Z19 !s105 CPU_sv_unit
+S1
+R6
+Z20 w1782678996
+Z21 8CPU.sv
+Z22 FCPU.sv
+L0 1
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!s101 -O0
+R14
+Z23 n@c@p@u
+vcpu_tb
+R1
+!i10b 1
+Z24 !s100 SgUDQ6O4EJl@`^>X1gS]T0
+Z25 I`PAjQONPa]D7eTY`MANID2
+Z26 V0P>[JOo>6KEkgKO=1CbUG0
+Z27 !s105 cpu_tb_sv_unit
+S1
+R6
+Z28 w1782680081
+Z29 8cpu_tb.sv
+Z30 Fcpu_tb.sv
+L0 3
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!s101 -O0
+R14
+vMemoria_instrucoes
+R1
+!i10b 1
+!s100 G3mn]>JoR[m2QSKX@7Wba2
+IOZ2LS4MQdPRG9L8IbQ89L0
+Z31 V@7I8jfTN>MHfiX9AW672f0
+Z32 !s105 memoria_instrucoes_sv_unit
+S1
+R6
+w1782681287
+Z33 8memoria_instrucoes.sv
+Z34 Fmemoria_instrucoes.sv
+L0 1
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!s101 -O0
+R14
+Z35 n@memoria_instrucoes
+vpc
+R1
+!i10b 1
+Z36 !s100 acMzA6nGJ6U3U;1Sh4f=82
+Z37 I=cD^U^5k=6PAU<=T5oEUj0
+Z38 V^3W@C?1fhS9Xj91hiW[nK3
+Z39 !s105 PC_sv_unit
+S1
+R6
+Z40 w1782678138
+Z41 8PC.sv
+Z42 FPC.sv
+L0 1
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!s101 -O0
+R14
+vULA
+R1
+!i10b 1
+Z43 !s100 o@_M__=h@jn[hQ42^hj5g3
+Z44 Ik>i80EzTKXRCj1i49=4:M1
+Z45 VEF=PfICXoXH3bfzhc7mme0
+Z46 !s105 ULA_sv_unit
+S1
+R6
+Z47 w1781573745
+Z48 8ULA.sv
+Z49 FULA.sv
+L0 1
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!s101 -O0
+R14
+Z50 n@u@l@a
+vunidade_controle
+R1
+!i10b 1
+Z51 !s100 ZD>d9FH^Ooeh=I?SJg9gM0
+Z52 IaHGFZefT17:iU=P]0Q8?c2
+Z53 V<_?eUzn6Scn1_jXnjSC@Y0
+Z54 !s105 unidade_controle_sv_unit
+S1
+R6
+Z55 w1782678655
+Z56 8unidade_controle.sv
+Z57 Funidade_controle.sv
+L0 1
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!s101 -O0
+R14
